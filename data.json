@@ -8,6 +8,13 @@
         "description": "Incubus is the final boss in Silent Hill encountered during the Good and Good+ endings.",
         "image_link": "https://static.wikia.nocookie.net/silent/images/0/04/Incubus.png",
         "page_link": "https://silenthill.fandom.com/wiki/Incubus"
+      },
+      {
+        "id": 2,
+        "monsterName": "Grey Child",
+        "description": "Grey Children, also known as Demon Children, are child-like, knife-wielding monsters in Silent Hill..",
+        "image_link": "https://static.wikia.nocookie.net/silent/images/3/34/GreyChild.png",
+        "page_link": "https://silenthill.fandom.com/wiki/Grey_Child"
       }
     ]
   }
