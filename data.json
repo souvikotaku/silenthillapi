@@ -1,0 +1,14 @@
+[
+  {
+    "gameId": "silent_hill1",
+    "monsters": [
+      {
+        "id": 1,
+        "monsterName": "Incubus",
+        "description": "Incubus is the final boss in Silent Hill encountered during the Good and Good+ endings.",
+        "image_link": "https://static.wikia.nocookie.net/silent/images/0/04/Incubus.png",
+        "page_link": "https://silenthill.fandom.com/wiki/Incubus"
+      }
+    ]
+  }
+]
